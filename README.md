@@ -1,6 +1,6 @@
 # 月イチで新しい言語に触れる企画第一弾
 
-毎月1つの言語に触る企画  
+[企画第一弾毎月1つの言語に触る企画](https://github.com/yamachaaan/monthly-study)  
 2019年1月はphp  
 
 ## スケジュール
